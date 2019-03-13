@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Copyright 2016, 2017 Openworx
+# Copyright 2016, 2019 codefish
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 
 {
