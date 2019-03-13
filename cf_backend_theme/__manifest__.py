@@ -3,18 +3,18 @@
 # License LGPL-3.0 or later (http://www.gnu.org/licenses/lgpl.html).
 
 {
-    "name": "Material/United Backend Theme",
+    "name": "codefish Original Backend Theme",
     "summary": "Odoo 11.0 community backend theme",
     "version": "11.0.1.0.4",
     "category": "Themes/Backend",
-    "website": "http://www.openworx.nl",
+    "website": "https://www.codefish.com.eg",
 	"description": """
 		Backend theme for Odoo 11.0 community edition.
     """,
 	'images':[
         'images/screen.png'
 	],
-    "author": "Openworx",
+    "author": "codefish",
     "license": "LGPL-3",
     "installable": True,
     "depends": [
